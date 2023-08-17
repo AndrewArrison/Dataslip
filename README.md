@@ -6,7 +6,7 @@ Welcome to DataSlip, data encryption and decoding into/from dataslip. DataSlip c
 
 For example:
 
-![DataSlip Logo](data/hello.png)
+![DataSlip Logo](dataslips/hello.png)
 
 this represent "hello"
 
